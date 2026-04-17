@@ -1,0 +1,21 @@
+{
+  "name": "twitter-intelligence-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze Twitter patterns - what Elon retweets & what goes viral",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "analyze": "node analyzer.js",
+    "test": "node analyzer.js"
+  },
+  "keywords": ["twitter", "analytics", "viral", "intelligence"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "twitter-api-v2": "^1.17.2",
+    "dotenv": "^16.4.5",
+    "node-cron": "^3.0.3",
+    "express": "^4.18.2",
+    "csv-writer": "^1.6.0"
+  }
+}
