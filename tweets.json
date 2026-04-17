@@ -1,0 +1,544 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "content": "GDP growth above 4% in 2025. Foreign reserves at $45.4 billion - highest in 7 years. Stock market up 48%. The data doesn't lie. Tinubu's reforms are working. #RenewedHope",
+      "scheduledTime": "2026-04-17T10:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 2,
+      "content": "Inflation dropped from 24.23% in March to 14.45% by November 2025. That's real progress. When last did we see numbers move in the right direction like this? #RenewedHope",
+      "scheduledTime": "2026-04-17T11:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 3,
+      "content": "788,000 Nigerian students now have interest-free loans totaling ₦150 billion through NELFUND. Education made accessible. This is what reform looks like. #RenewedHope",
+      "scheduledTime": "2026-04-17T12:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 4,
+      "content": "The opposition criticizes everything but built nothing when they had the chance. Where were these economic gains when they were in power? Actions speak louder. #RenewedHope",
+      "scheduledTime": "2026-04-17T14:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 5,
+      "content": "FDI jumped from $90M to $720M in one quarter. Foreign investors see what the opposition refuses to see: Nigeria is finally getting its act together. #RenewedHope",
+      "scheduledTime": "2026-04-17T15:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 6,
+      "content": "₦58.18 trillion 2026 budget. Largest allocation? Defense and security (₦5.41T). Finally, a government that prioritizes protecting Nigerian lives. #RenewedHope",
+      "scheduledTime": "2026-04-17T16:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": 7,
+      "content": "Exchange rate stability is improving. Naira strengthening. Trade surpluses maintained. These aren't talking points - these are official CBN numbers. #RenewedHope",
+      "scheduledTime": "2026-04-17T17:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 8,
+      "content": "The same people who ran this country into the ground for 16 years now want to lecture us about economic management. The audacity. #RenewedHope",
+      "scheduledTime": "2026-04-17T18:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 9,
+      "content": "2026 declared Year of Social Development and Families. 25 million women to be reached through empowerment programs. This is nation-building, not campaign promises. #RenewedHope",
+      "scheduledTime": "2026-04-17T20:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "social"
+      ]
+    },
+    {
+      "id": 10,
+      "content": "Nigerian Stock Exchange posted 48.12% gain in 2025, outperforming global peers. Your pension funds are growing. Your investments are growing. Reform works. #RenewedHope",
+      "scheduledTime": "2026-04-17T21:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 11,
+      "content": "Anti-terrorism operations with US cooperation. Grid synchronization with ECOWAS countries completed. Port modernization ongoing. Real infrastructure, real security. #RenewedHope",
+      "scheduledTime": "2026-04-17T22:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 12,
+      "content": "Tax harmonization agenda reducing multiple taxation burden. States are aligning. Finally, someone is tackling the chaos that's been choking businesses for decades. #RenewedHope",
+      "scheduledTime": "2026-04-17T23:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "policy"
+      ]
+    },
+    {
+      "id": 13,
+      "content": "Critics said the reforms would destroy the economy. Instead: 4%+ GDP growth, falling inflation, rising reserves, surging investments. They were wrong. Again. #RenewedHope",
+      "scheduledTime": "2026-04-18T00:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 14,
+      "content": "Power sector debt reduced from ₦2.3 trillion to ₦147 billion. ₦700 billion saved for FG. This is the kind of financial discipline Nigeria has needed for years. #RenewedHope",
+      "scheduledTime": "2026-04-18T02:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "id": 15,
+      "content": "Presidential CNG initiative cutting transport costs. 3MTT training program. Jubilee Fellows. LEEP. Real programs addressing real problems for real people. #RenewedHope",
+      "scheduledTime": "2026-04-18T03:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "youth"
+      ]
+    },
+    {
+      "id": 16,
+      "content": "Moody's and Fitch - international rating agencies - are responding positively to Nigeria's reforms. But local opposition politicians know better than global experts? Sure. #RenewedHope",
+      "scheduledTime": "2026-04-18T04:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 17,
+      "content": "AKK Gas Pipeline. Coastal Highway. Sokoto-Badagry Expressway. Rail developments. Major infrastructure projects moving from blueprint to reality. #RenewedHope",
+      "scheduledTime": "2026-04-18T05:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 18,
+      "content": "The opposition had their time. They squandered it. Now they criticize the hard work being done to fix their mess. Nigerians see through this. #RenewedHope",
+      "scheduledTime": "2026-04-18T06:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 19,
+      "content": "Bank of Agriculture recapitalized. Agricultural mechanization expanded. Food security is national priority. Not just talk - actual budget allocations backing it up. #RenewedHope",
+      "scheduledTime": "2026-04-18T08:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "agriculture"
+      ]
+    },
+    {
+      "id": 20,
+      "content": "Tinubu: 'Reform is not easy but it is necessary.' Finally, a leader who tells the truth instead of sweet lies. Short-term pain for long-term gain. #RenewedHope",
+      "scheduledTime": "2026-04-18T09:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "id": 21,
+      "content": "Foreign reserves: $45.4B (Dec 2025). That's a 7-year high. The Naira has a buffer against external shocks. Financial stability is being rebuilt brick by brick. #RenewedHope",
+      "scheduledTime": "2026-04-18T10:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 22,
+      "content": "Budget of Consolidation, Renewed Resilience and Shared Prosperity - not just a catchy title. ₦26.08 trillion for capital expenditure. Real money for real development. #RenewedHope",
+      "scheduledTime": "2026-04-18T11:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "budget"
+      ]
+    },
+    {
+      "id": 23,
+      "content": "The opposition said subsidy removal would kill the economy. Reality: GDP up, inflation down, investments up, reserves up. Maybe they should stop predicting doom. #RenewedHope",
+      "scheduledTime": "2026-04-18T12:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 24,
+      "content": "State policing with proper safeguards. Decentralized security. Forest guards properly regulated. Finally addressing insecurity with structure, not just rhetoric. #RenewedHope",
+      "scheduledTime": "2026-04-18T14:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": 25,
+      "content": "When they were in power: fuel queues, forex scarcity, power collapse, corruption everywhere. Now they complain about someone actually fixing these problems. #RenewedHope",
+      "scheduledTime": "2026-04-18T15:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 26,
+      "content": "Nigeria's grid synchronized with ECOWAS countries after successful test run. Regional power integration happening. This is the kind of progress that changes economies. #RenewedHope",
+      "scheduledTime": "2026-04-18T16:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "id": 27,
+      "content": "25M women through empowerment programs. Digital inclusion as foundational policy. Women at center of national planning. This is 21st century governance. #RenewedHope",
+      "scheduledTime": "2026-04-18T17:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "women"
+      ]
+    },
+    {
+      "id": 28,
+      "content": "Inflation target: below 15%. Achieved in November 2025 (14.45%). Goal set. Goal met. That's competence. That's execution. #RenewedHope",
+      "scheduledTime": "2026-04-18T18:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 29,
+      "content": "Critics focus on temporary pains of reform. Smart people see the permanent gains: stable currency, growing economy, better infrastructure, educated youth. #RenewedHope",
+      "scheduledTime": "2026-04-18T20:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "reform"
+      ]
+    },
+    {
+      "id": 30,
+      "content": "Multiple budgets ended. Overlapping spending stopped. Abandoned projects being completed. Fiscal discipline is not sexy but it's what actually builds nations. #RenewedHope",
+      "scheduledTime": "2026-04-18T21:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "governance"
+      ]
+    },
+    {
+      "id": 31,
+      "content": "Every single economic indicator trending positive. Yet opposition says nothing is working. Either they can't read data or they're being deliberately dishonest. #RenewedHope",
+      "scheduledTime": "2026-04-18T22:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 32,
+      "content": "Healthcare strengthening. Maternal and child health investments. Disease prevention programs. A healthy population = productive economy. Basic logic being applied. #RenewedHope",
+      "scheduledTime": "2026-04-18T23:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "health"
+      ]
+    },
+    {
+      "id": 33,
+      "content": "NELFUND supporting 788k students with ₦150B in interest-free loans. Opposition had 16 years - how many students did they support? Exactly. #RenewedHope",
+      "scheduledTime": "2026-04-19T00:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "education"
+      ]
+    },
+    {
+      "id": 34,
+      "content": "Trade surpluses maintained. Non-oil revenue expanded through better tax administration. Diversification isn't a slogan anymore - it's actually happening. #RenewedHope",
+      "scheduledTime": "2026-04-19T02:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 35,
+      "content": "They promised change. Delivered chaos. Tinubu promised reform. Delivering results. See the difference? #RenewedHope",
+      "scheduledTime": "2026-04-19T03:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 36,
+      "content": "Armed forces conducting sustained operations against terror networks in Northwest and Northeast. With US cooperation. Security threats being confronted, not ignored. #RenewedHope",
+      "scheduledTime": "2026-04-19T04:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": 37,
+      "content": "Input financing and mechanization for agriculture. Irrigation and climate-resilient farming. Storage and processing infrastructure. Food security backed by actual programs. #RenewedHope",
+      "scheduledTime": "2026-04-19T05:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "agriculture"
+      ]
+    },
+    {
+      "id": 38,
+      "content": "Capital expenditure: ₦26.08 trillion in 2026 budget. That's real infrastructure money. Roads, rails, power, ports - all being addressed simultaneously. #RenewedHope",
+      "scheduledTime": "2026-04-19T06:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 39,
+      "content": "Opposition complains about everything. What's their alternative plan? Silence. Criticism without solutions is just noise. #RenewedHope",
+      "scheduledTime": "2026-04-19T08:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 40,
+      "content": "GDP growth every quarter of 2025. Annual growth exceeding 4%. During global economic headwinds. Nigeria performing while others struggle. #RenewedHope",
+      "scheduledTime": "2026-04-19T09:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 41,
+      "content": "Renewed Hope isn't a slogan. It's: 788k students funded. 25M women to be empowered. ₦2.3T debt reduced to ₦147B. Inflation down 10%. These are measurable deliverables. #RenewedHope",
+      "scheduledTime": "2026-04-19T10:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "achievements"
+      ]
+    },
+    {
+      "id": 42,
+      "content": "Tax reform designed for fairness and competitiveness. Multiple taxation being harmonized. Small businesses getting relief. Finally, government that understands business needs. #RenewedHope",
+      "scheduledTime": "2026-04-19T11:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "tax"
+      ]
+    },
+    {
+      "id": 43,
+      "content": "They said it couldn't be done. Reforms too difficult. Pain too much. Then Tinubu did it anyway. And it's working. Leadership is doing hard things. #RenewedHope",
+      "scheduledTime": "2026-04-19T12:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "id": 44,
+      "content": "Port modernization ongoing. Reducing cost of doing business. Improving logistics. Making Nigerian businesses competitive globally. This is how economies grow. #RenewedHope",
+      "scheduledTime": "2026-04-19T14:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 45,
+      "content": "FDI: $90M → $720M in one quarter. 700% increase. International investors voting with their money. They trust Tinubu's Nigeria. Opposition can keep complaining. #RenewedHope",
+      "scheduledTime": "2026-04-19T15:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 46,
+      "content": "When opposition was in power: no fiscal discipline, no reform, no transparency. Now they criticize the government cleaning up their mess. Shameless. #RenewedHope",
+      "scheduledTime": "2026-04-19T16:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 47,
+      "content": "Presidential CNG initiative. 3 Million Technical Talent program. LEEP for young people. Jubilee Fellows. Youth aren't forgotten - they're prioritized. #RenewedHope",
+      "scheduledTime": "2026-04-19T17:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "youth"
+      ]
+    },
+    {
+      "id": 48,
+      "content": "Stock market up 48%. Foreign reserves at 7-year high. Inflation down 10 percentage points. Exchange rate stabilizing. These aren't opinions - these are facts. #RenewedHope",
+      "scheduledTime": "2026-04-19T18:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 49,
+      "content": "Reform always faces resistance. Tinubu knew this. Did it anyway. That's courage. That's what Nigeria needed. Someone willing to make hard decisions for long-term good. #RenewedHope",
+      "scheduledTime": "2026-04-19T20:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "leadership"
+      ]
+    },
+    {
+      "id": 50,
+      "content": "Recapitalizing Bank of Agriculture. Expanding mechanization. Supporting smallholder farmers. Reducing post-harvest losses. Agriculture finally getting serious attention. #RenewedHope",
+      "scheduledTime": "2026-04-19T21:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "agriculture"
+      ]
+    },
+    {
+      "id": 51,
+      "content": "Global rating agencies - Moody's, Fitch - recognizing Nigeria's progress. But local critics who delivered nothing want us to ignore global experts. Not happening. #RenewedHope",
+      "scheduledTime": "2026-04-19T22:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "id": 52,
+      "content": "Opposition strategy: criticize everything, propose nothing, take credit for nothing good, blame others for everything bad. Nigerians are tired of this game. #RenewedHope",
+      "scheduledTime": "2026-04-19T23:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 53,
+      "content": "Defense and security: ₦5.41 trillion allocation. Biggest single allocation in 2026 budget. Lives and property matter. Territorial integrity matters. Action, not words. #RenewedHope",
+      "scheduledTime": "2026-04-20T00:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "security"
+      ]
+    },
+    {
+      "id": 54,
+      "content": "Coastal Highway. Sokoto-Badagry Expressway. AKK Gas Pipeline. Rail network expansion. Infrastructure deficit being tackled on multiple fronts simultaneously. #RenewedHope",
+      "scheduledTime": "2026-04-20T02:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "infrastructure"
+      ]
+    },
+    {
+      "id": 55,
+      "content": "They had 16 years. Left us with: collapsed grid, fuel scarcity, empty reserves, runaway inflation, zero investor confidence. Now they want another chance? No. #RenewedHope",
+      "scheduledTime": "2026-04-20T03:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    },
+    {
+      "id": 56,
+      "content": "Economic progress + security improvements + infrastructure development + social programs = comprehensive governance. This is what leadership looks like. #RenewedHope",
+      "scheduledTime": "2026-04-20T04:24:06.866Z",
+      "posted": false,
+      "tags": [
+        "governance"
+      ]
+    },
+    {
+      "id": 57,
+      "content": "Power sector: ₦2.303 trillion debt → ₦146.76 billion. ₦700 billion saved. Grid synchronized with ECOWAS. Reform isn't just talk in this sector - it's delivering. #RenewedHope",
+      "scheduledTime": "2026-04-20T05:36:06.866Z",
+      "posted": false,
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "id": 58,
+      "content": "Tinubu's track record: GDP up, inflation down, reserves up, investments up, students funded, women empowered, infrastructure growing. Opposition's track record: talk. #RenewedHope",
+      "scheduledTime": "2026-04-20T06:48:06.866Z",
+      "posted": false,
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": 59,
+      "content": "Budget of Consolidation, Renewed Resilience and Shared Prosperity. Not just words. ₦58.18T backing it up. Capital projects being executed. Reform being deepened. #RenewedHope",
+      "scheduledTime": "2026-04-20T08:00:06.866Z",
+      "posted": false,
+      "tags": [
+        "budget"
+      ]
+    },
+    {
+      "id": 60,
+      "content": "They predicted doom. Reality delivered growth. They promised heaven. Reality delivered chaos. Tinubu promised hard reforms. Reality is delivering results. Choose wisely. #RenewedHope",
+      "scheduledTime": "2026-04-20T09:12:06.866Z",
+      "posted": false,
+      "tags": [
+        "politics"
+      ]
+    }
+  ]
+}
