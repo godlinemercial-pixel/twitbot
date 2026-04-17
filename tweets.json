@@ -1,0 +1,25 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "content": "Just launched my new project! 🚀 Check it out at [your-link]",
+      "scheduledTime": "2026-04-18T09:00:00Z",
+      "posted": false,
+      "tags": ["launch", "announcement"]
+    },
+    {
+      "id": 2,
+      "content": "Building in public is the best way to learn. Here's what I learned this week:\n\n1. Keep it simple\n2. Ship fast\n3. Listen to users",
+      "scheduledTime": "2026-04-19T14:00:00Z",
+      "posted": false,
+      "tags": ["building-in-public", "lessons"]
+    },
+    {
+      "id": 3,
+      "content": "Nigerian tech scene is heating up 🔥\n\nSo many amazing builders here. Let's connect!",
+      "scheduledTime": "2026-04-20T10:00:00Z",
+      "posted": false,
+      "tags": ["nigeria", "tech"]
+    }
+  ]
+}
