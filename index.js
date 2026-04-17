@@ -2,6 +2,23 @@ require('dotenv').config();
 const { TwitterApi } = require('twitter-api-v2');
 const fs = require('fs').promises;
 const cron = require('node-cron');
+const express = require('express');
+
+// Create a simple web server for Render health checks
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.get('/', (req, res) => {
+  res.send('Twitter bot is running! 🤖');
+});
+
+app.get('/health', (req, res) => {
+  res.json({ status: 'healthy', running: true });
+});
+
+app.listen(PORT, () => {
+  console.log(`Health check server running on port ${PORT}`);
+});
 
 // Initialize Twitter client
 const client = new TwitterApi({
